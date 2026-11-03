@@ -1,6 +1,6 @@
 # Liani Ovalles — Remote Work Portfolio
 
-A simple, mobile-friendly portfolio for entry-level **office support, data entry, document processing, and manual software testing** opportunities.
+A simple, mobile-friendly portfolio for entry-level **office support, data entry, coding, website building, troubleshooting, communication, and manual software testing** opportunities.
 
 ## View the portfolio
 
@@ -9,7 +9,7 @@ A simple, mobile-friendly portfolio for entry-level **office support, data entry
 
 ## Skills
 
-Data entry · File organization · Document handling · Computer navigation · Troubleshooting · Written documentation · Manual software testing · Team collaboration
+Data entry · File organization · Document handling · Computer navigation · Troubleshooting · Written documentation · Manual software testing · Coding (C#) · Website building · Troubleshooting · Communication · Team collaboration
 
 ## Background
 
