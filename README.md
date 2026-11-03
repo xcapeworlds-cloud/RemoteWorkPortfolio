@@ -5,7 +5,6 @@ A simple, mobile-friendly portfolio for entry-level **office support, data entry
 ## View the portfolio
 
 - **Website files:** [index.html](./index.html)
-- **Original portfolio:** https://liani-ovalles-office-portfolio.xcape-worlds.chatgpt.site/
 - **GitHub account:** https://github.com/xcapeworlds-cloud
 
 ## Skills
@@ -27,4 +26,3 @@ xcape.worlds@gmail.com
 
 This repository contains a static website in `index.html`. To publish it, open **Settings → Pages**, select **Deploy from a branch**, choose **main** and **/(root)**, and save. GitHub will provide a public website URL after deployment.
 
-> This is a new portfolio website built from the provided resume, not a copy of the original ChatGPT-hosted site's source code.
