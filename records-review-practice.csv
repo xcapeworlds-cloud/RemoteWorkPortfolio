@@ -1,0 +1,9 @@
+Record ID,Client Code,Received Date,Document Type,Status,Quality Flag,Review Notes
+R-1001,CL-204,2026-09-03,Intake Form,Complete,Checked,
+R-1002,CL-205,09/04/2026,Proof of Address,Pending,Date format,Normalize date
+R-1003,CL-206,2026-09-04,Intake Form,Complete,Duplicate ID,Repeated ID
+R-1004,CL-207,2026-09-05,ID Document,Pending,Needs review,Missing supporting page
+R-1005,CL-208,2026-09-05,Address Update,Complete,Checked,
+R-1003,CL-206,2026-09-04,Intake Form,Complete,Duplicate ID,Repeated ID
+R-1007,,2026-09-07,Intake Form,Pending,Missing field,Client code missing
+R-1008,CL-210,2026-09-08,Proof of Address,Complete,Checked,
